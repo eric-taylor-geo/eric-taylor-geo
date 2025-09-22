@@ -1,6 +1,6 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi!+I'm+Eric!+👋;Welcome+to+my+GitHub!)
 
-🎓 MSc Environmental Data Science and Machine Learning, Imperial College London
+🎓 MSc Environmental Data Science and Machine Learning, Imperial College London <br>
 🎓 BA Geography, University of Cambridge
 
 <!--
